@@ -1277,7 +1277,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1330,7 +1330,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1383,7 +1383,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1436,7 +1436,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1489,7 +1489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1542,7 +1542,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1595,7 +1595,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1648,7 +1648,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1817,7 +1817,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -3121,12 +3121,12 @@
           "_anchor": "feed-1x",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 0,
+            "paddingBottom": "2",
             "youtube": "https://www.youtube.com/channel/UCfQTe5fAveejtR9lfIHeF7w",
             "facebook": "https://www.facebook.com/Filamujuani/",
             "twitter": "https://twitter.com/Filamujuani",
             "google": "",
-            "postToLoad": 3,
+            "postToLoad": "2",
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
             "bgColor": "#fff",
