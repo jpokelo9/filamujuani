@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "social_media.html",
+    "currentPage": "gallery.html",
     "name": "filamujuani",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 71,
+    "uniqCompNum": 82,
     "versionPublish": "3.10.7",
     "favicon": "@PROJECT_PATH@/assets/images/filamujuani-logo-only-128x107-1.png",
     "noImageResize": ""
@@ -189,7 +189,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_styles": {
@@ -948,7 +948,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -1244,7 +1244,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -1277,7 +1277,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1330,7 +1330,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1383,7 +1383,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1436,7 +1436,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1489,7 +1489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1542,7 +1542,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1595,7 +1595,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1648,7 +1648,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1817,7 +1817,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1932,7 +1932,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_styles": {
@@ -2272,7 +2272,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -2656,7 +2656,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -3126,7 +3126,7 @@
             "facebook": "https://www.facebook.com/Filamujuani/",
             "twitter": "https://twitter.com/Filamujuani",
             "google": "",
-            "postToLoad": "2",
+            "postToLoad": "8",
             "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
             "bgImageRadio": false,
             "bgColor": "#fff",
@@ -3225,7 +3225,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"true\">SOCIAL MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -3329,6 +3329,700 @@
         {
           "_name": "footer1",
           "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "media.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-22",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "OUR WORK<br>",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1z",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/filamujuani-logo-only-152x128.png",
+              "height": 128,
+              "alt": "filamujuani",
+              "link": "index.html",
+              "title": "filamujuani home",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-24",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1480359014333-3935abd88252-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Rununu.tv",
+          "subtitle1": "Subtitle",
+          "caption1": "Lorem ipsum dolor sit amet, egestas neque, leo in integer. Erat nec. Pede justo, cum elementum, morbi rutrum. Ullamcorper mi vitae, volutpat mauris.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.rununu.tv/\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1432888622747-4eb9a8efeb07-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Social Media",
+          "subtitle2": "Subtitle",
+          "caption2": "Lorem ipsum dolor sit amet, egestas neque, leo in integer. Erat nec. Pede justo, cum elementum, morbi rutrum. Ullamcorper mi vitae, volutpat mauris.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"social_media.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Blog",
+          "subtitle3": "Subtitle",
+          "caption3": "Lorem ipsum dolor sit amet, egestas neque, leo in integer. Erat nec. Pede justo, cum elementum, morbi rutrum. Ullamcorper mi vitae, volutpat mauris.",
+          "button3": "<a data-app-btn=\"true\" href=\"blog.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/photo-19-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Gallery",
+          "subtitle4": "Subtitle",
+          "caption4": "Lorem ipsum dolor sit amet, egestas neque, leo in integer. Erat nec. Pede justo, cum elementum, morbi rutrum. Ullamcorper mi vitae, volutpat mauris.",
+          "button4": "<a data-app-btn=\"true\" href=\"blog.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/filamujuani-logo-265x222.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:info@filamujuani.com\" class=\"text-warning\">info@filamujuani.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Links",
+          "text5": "<li><a href=\"ourstory.html\" class=\"text-warning\">Our Story</a></li><li><a class=\"text-warning\" href=\"ourwork.html\">Our Work</a></li><li><a class=\"text-warning\" href=\"#\">Get Involved, Donate</a></li><li><a class=\"text-warning\" href=\"crew.html\">Crew</a></li><li><a href=\"blog.html\" class=\"text-warning\">Blog</a><a href=\"blog.html\"></a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: info@filamujuani.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jpokelo9@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-21",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        }
+      ]
+    },
+    "gallery.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-28",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1420802532821-8a885e88e95c-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "GALLERY<br>",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-29",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-25",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/filamujuani-logo-only-152x128.png",
+              "height": 128,
+              "alt": "filamujuani",
+              "link": "index.html",
+              "title": "filamujuani home",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1h\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1i\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html#header3-1j\">Behind the Scenes</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"crew.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CREW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Founder</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Leadership</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Fellows</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Board</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"media.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.rununu.tv/\" target=\"_blank\">RUNUNU.TV</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"social_media.html\">SOCIAL MEDIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"blog.html\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"gallery.html\">GALLERY</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"social_media.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-26",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/filamujuani-logo-265x222.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<p><a href=\"mailto:info@filamujuani.com\" class=\"text-warning\">info@filamujuani.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
+          "title1": "Links",
+          "text5": "<li><a href=\"ourstory.html\" class=\"text-warning\">Our Story</a></li><li><a class=\"text-warning\" href=\"ourwork.html\">Our Work</a></li><li><a class=\"text-warning\" href=\"#\">Get Involved, Donate</a></li><li><a class=\"text-warning\" href=\"crew.html\">Crew</a></li><li><a href=\"blog.html\" class=\"text-warning\">Blog</a><a href=\"blog.html\"></a><a class=\"text-white\" href=\"#\"></a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: info@filamujuani.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jpokelo9@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-27",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
