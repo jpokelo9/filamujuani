@@ -208,8 +208,8 @@
           "_anchor": "features4-3",
           "_params": {
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/filamujuani-logo-converted-2000x2255.png",
@@ -243,7 +243,7 @@
             }
           },
           "title1": "WHY",
-          "subtitle1": "Sub-title",
+          "subtitle1": "",
           "caption1": "Lorem ipsum dolor sit amet, pulvinar dignissim erat blandit in voluptatem, non vestibulum amet, sed sed mauris porttitor a et tempus. Vestibulum odio orci id natoque lectus. Ornare eget eleifend et mattis, elit conubia amet iaculis..",
           "button1": "<a data-app-btn=\"true\" href=\"ourstory.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -259,7 +259,7 @@
             }
           },
           "title2": "OUR WORK",
-          "subtitle2": "Sub-title",
+          "subtitle2": "",
           "caption2": "Lorem ipsum dolor sit amet, pulvinar dignissim erat blandit in voluptatem, non vestibulum amet, sed sed mauris porttitor a et tempus. Vestibulum odio orci id natoque lectus. Ornare eget eleifend et mattis, elit conubia amet iaculis.",
           "button2": "<a data-app-btn=\"true\" href=\"ourwork.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -275,7 +275,7 @@
             }
           },
           "title3": "CREW",
-          "subtitle3": "Sub-title",
+          "subtitle3": "",
           "caption3": "Lorem ipsum dolor sit amet, pulvinar dignissim erat blandit in voluptatem, non vestibulum amet, sed sed mauris porttitor a et tempus. Vestibulum odio orci id natoque lectus. Ornare eget eleifend et mattis, elit conubia amet iaculis.",
           "button3": "<a data-app-btn=\"true\" href=\"crew.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -329,6 +329,17 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#5b5b5b"
+            }
+          },
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": 2,
@@ -431,18 +442,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#5b5b5b"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -493,6 +493,11 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            }
+          },
           "_anchor": "header1-7",
           "_params": {
             "parallax": false,
@@ -515,12 +520,7 @@
           },
           "title": "TELLING OUR STORY THROUGH THE LENS",
           "text": "Lorem ipsum dolor sit amet, pulvinar dignissim erat blandit in voluptatem, non vestibulum amet, sed sed mauris porttitor a et tempus. Vestibulum odio orci id natoque lectus. Ornare eget eleifend et mattis, elit conubia amet iaculis.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUTTON 1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUTTON 2</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fac51c"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUTTON 1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUTTON 2</a>"
         },
         {
           "_tags": [
@@ -587,6 +587,10 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/filamujuani-logo0061-2000x937-1.png",
@@ -596,11 +600,7 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "WHAT PEOPLE ARE SAYING",
           "subtitle": ""
@@ -678,7 +678,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -746,7 +746,7 @@
             }
           },
           "text4": "<p><a href=\"mailto:info@filamujuani.com\" class=\"text-warning\">info@filamujuani.com</a><a href=\"mailto:support@mobirise.com\"></a></p>",
-          "title1": "Categories",
+          "title1": "Links",
           "text5": "<li><a href=\"ourstory.html\" class=\"text-warning\">Our Story</a></li><li><a class=\"text-warning\" href=\"ourwork.html\">Our Work</a></li><li><a class=\"text-warning\" href=\"#\">Get Involved, Donate</a></li><li><a class=\"text-warning\" href=\"crew.html\">Crew</a></li><li><a href=\"blog.html\" class=\"text-warning\">Blog</a><a href=\"blog.html\"></a><a class=\"text-white\" href=\"#\"></a></li>",
           "text6": "<strong>Contacts</strong><br>Email: info@filamujuani.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
           "form": {
@@ -777,7 +777,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
           "_name": "footer1",
@@ -1220,7 +1220,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1273,7 +1273,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1326,7 +1326,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1379,7 +1379,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1432,7 +1432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1485,7 +1485,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1538,7 +1538,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1591,7 +1591,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1760,7 +1760,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2075,6 +2075,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-s",
           "_params": {
             "labelsColor": "#232323",
@@ -2120,12 +2125,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_styles": {
