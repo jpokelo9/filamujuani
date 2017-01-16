@@ -72,8 +72,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#fac51c",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#faaf40",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -189,7 +189,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"true\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_styles": {
@@ -359,7 +359,7 @@
             "columns": "3",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true
           },
@@ -388,7 +388,7 @@
             }
           },
           "title2": "LESSONS",
-          "subtitle2": "<b>Text here</b>",
+          "subtitle2": "",
           "caption2": "<b>Lorem ipsum dolor sit amet, pulvinar dignissim erat blandit in voluptatem, non vestibulum amet, sed sed mauris porttitor a et tempus. Vestibulum odio orci id natoque lectus. Ornare eget eleifend et mattis, elit conubia amet iaculis.</b>",
           "button2": "<a data-app-btn=\"true\" href=\"blog.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
@@ -404,7 +404,7 @@
             }
           },
           "title3": "FUNDRAISE",
-          "subtitle3": "<b>Text here</b>",
+          "subtitle3": "",
           "caption3": "<b>Lorem ipsum dolor sit amet, pulvinar dignissim erat blandit in voluptatem, non vestibulum amet, sed sed mauris porttitor a et tempus. Vestibulum odio orci id natoque lectus. Ornare eget eleifend et mattis, elit conubia amet iaculis.</b>",
           "button3": "<a data-app-btn=\"true\" href=\"contactus.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
@@ -889,7 +889,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"true\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -1187,7 +1187,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"true\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -1220,7 +1220,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1273,7 +1273,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1326,7 +1326,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1379,7 +1379,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1432,7 +1432,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1485,7 +1485,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1538,7 +1538,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1591,7 +1591,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1760,7 +1760,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/photo-31-1400x9332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1875,7 +1875,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"true\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_styles": {
@@ -2215,7 +2215,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"true\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
@@ -2557,7 +2557,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">filamujuani</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"false\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">OUR STORY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"ourwork.html\" aria-expanded=\"true\">OUR WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">In Production</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Wrapped</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ourwork.html\">Behind the Scenes</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"crew.html\" aria-expanded=\"false\">CREW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\" aria-expanded=\"false\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\" aria-expanded=\"false\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"paypal.com\" target=\"_blank\">DONATE</a></li>"
         },
         {
           "_tags": [
